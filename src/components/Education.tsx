@@ -3,7 +3,7 @@ import { GraduationCap, Calendar, Award } from 'lucide-react';
 const Education = () => {
   const educationData = [
     {
-      degree: 'Master of Science in Computer Science',
+      degree: 'Master of Science in Information Technology',
       institution: 'Hindusthan College of Arts & Science',
       duration: '2023 - 2025',
       percentage: '77%',
